@@ -1,0 +1,76 @@
+ Bv THEO 3350: Legal Imagination in Christianity
+Digital Humanities Glossing Project
+How-To Instructions
+Overview
+This document provides instructions on the technical aspect of the project – creating and annotating your website. See the separate “Content and Grading Guide” for an explanation of what content (i.e., texts) needs to be included and how your work will be graded.
+
+In short, you will be creating a website using GitHub. Then you will be annotating the texts on your website using Hypothesis. Both stages of the project involve a mixture of individual and group work. Finally, you will type up a final analysis and synthesis of the material on your own.
+
+Set-Up in GitHub
+1. Each member of your team will need to set up an individual GitHub account if you don’t already have one.
+
+2. You will need to link your accounts together as part of an “organization.” One team member should create the organization in GitHub and make the other members of the team contributors or members of it. In this way, everyone can add to and edit the pages in your repository.
+	Give your organization a short name (and one that can be public – it will end up being part of your website name).
+
+3. Create a new repository. You will have only one repository, which will have several different pages. Each page within the repository will be devoted to a separate biblical or historical text.
+	Make sure the repository is connected to your organization, not an individual account.
+	Instructions for setting up GitHub repositories may be found at  https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site/.
+	Also helpful is https://dev.to/programliftoff/create-your-first-website-on-github-pages. 
+
+4. Once your repository is created, add “New File.” Name it “index.md.” This will be your website homepage. It is here that you should give your website a title and perhaps a short description of your group’s work. Over time, you will also need to add links to your individual pages; it thus serves as your index or online table of contents.
+
+5. On your index.md page and on every sub-page you create, you will need to use Markdown, a basic code that will enable you to format the text on your pages (e.g., identify certain text as a heading, or subheading, or make some text bold or italicized, or insert bulleted or numbered lists).
+	A helpful guide to Markdown may be found at https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet.
+	Note: If your team members are all conversant in .html and prefer to use it, you may do so. These instructions utilize Markdown, which may be simpler for those who do not have previous coding experience.
+
+Adding Pages in GitHub
+
+1. Each text that you will be glossing should have its own Page within your GitHub repository. From your repository, click on “New File.”
+	For help, see https://help.github.com/en/github/managing-files-in-a-repository/creating-new-files, or follow the instructions below.
+
+2. Give your new file a name (and write it down precisely). The name should give a short title to the text that will be on the page. It must end with “.md,” e.g., “Ivo.md.”
+
+3. In the “Edit new file” box, give your text a header (use the markdown code) with the title and author, if known, of the text. On the next line, give full bibliographical details, if needed, of where your text is from. (Any print text needs to be cited; biblical passages do not, but you should include the version or translation of the Bible you are using.)
+
+4. On the next line, start typing your entire text.
+	You can keep typing along the same line for anything that will be in the same paragraph.
+	When you want to start a new paragraph, go down to the next line (I would recommend putting an extra space, so jump down two lines).
+
+5. When complete, scroll down to the bottom of the page, and click “Commit new file” (just commit it directly to the master branch; you can create a new pull request, if your team decides you want to have greater sharing and editing of work before it is published). This will save your work.
+	Regardless of how in-depth your team goes with GitHub workflow functions, you should designate a primary copyist and a separate proofreader (or two) for each page. You do not want to have errors or typos on your site.
+
+6. To link to this page from your homepage using Markdown, edit your “index.md” page. Add a title for your text on a new line and put it in square brackets. Without spaces, follow it immediately with (filename). 
+	E.g. [Ivo of Chartres, Prologue](Ivo.md). The filename needs to match exactly what you named that page.
+	Once you commit changes, this will create a link. In your index file, the title for the new page will now appear in blue, indicating that there is a link there.
+
+To View Your Website
+
+1. At any point in your progress, to see what your website looks like to others, go to Settings.
+
+2. Scroll down to “GitHub Pages.” Click on the URL where it says “Your site is ready to be published at _____.”
+
+3. Note that when you first create a new site, it may take up to 20 minutes for it to be available. So if you get a 404 Error, that doesn’t necessarily mean you’ve done something incorrect; you may just need to wait a little longer.
+
+Annotation of Your Texts Using Hypothesis
+
+1. Each team member needs to create his or her own account at hypothes.is. 
+
+2. Follow the “Get Started” instructions to add the plug-in to your browser.
+
+3. Once you have the Hypothesis plug-in, you can activate it on any webpage that is compatible with it. This includes Wikipedia and most other websites.
+
+4. Go to your team’s website and begin annotating your texts.
+	In other words, your annotation will be done on the website (not in GitHub).
+	Make your comments public so that your team members and other peers (and your professor!) can see your analysis.
+
+5. After you have provided your individual glosses or annotation on the various texts, and after all your team members have done the same, do a second round of glosses, annotating the glosses of your team members.
+	This results in multiple layers of glossing, meaning that you are not only engaging in an analysis of the original text but also in an analysis of others’ first analysis of the original text. 
+	This creates a sort of conversation or dialogue, and other team members should feel free to respond or add their own ideas in as many layers as you wish.
+	Always be respectful and courteous, even if you disagree with another team member’s interpretation.
+
+Summary Essay
+
+1. Individually, create a Microsoft Word document. Format it with 1-inch margins, double-spaced, Times New Roman 12pt font.
+
+2. Write your own analysis and synthesis of the original texts and your team’s annotation of them. This will be 4-6 pages long.
+	See the “Content and Grading Guide” for expectations of what should be included
